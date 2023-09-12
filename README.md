@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hello, I’m Burkay. I am senior computer engineering student. I’m just curious about artificial intelligence and embedded systems. I did some work on deep learning, image classification, object detection. I am also now working on video classification for my thesis.<br><br>I started with hello world and i am still exploring the world.
-
+Hello, I’m Burkay. I am an aspiring Machine Learning developer. I did specific work on deep learning, image classification, and object detection. I also worked on video classification for my thesis. Additionally, I’m just curious about Android development and embedded systems.<br><br>I started with ‘Hello World!’, and I am still exploring the world.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irmakburkay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irmakburkay) 
