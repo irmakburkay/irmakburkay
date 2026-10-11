@@ -1,21 +1,71 @@
-# 💫 About Me:
-🌱 A passionate aspiring Machine Learning Engineer<br>⚡ Also curious about Android development and embedded systems
+# Hi, I'm Sabri Burkay Irmak 👋
 
+### AI Engineer | Computer Vision & Edge AI
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irmakburkay) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sabriburkayirmak) 
+AI Engineer focused on building and deploying **production-ready Computer Vision and Machine Learning systems**. With 2.5+ years of professional experience, I have worked on end-to-end AI projects across 20+ manufacturing facilities in Türkiye and Europe.
 
-# 💻 Tech Stack:
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org) [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://www.keras.io) [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/) [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://anaconda.org/) [![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/) [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/) [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/) [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/) [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org) [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/) [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org) [![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+My experience spans the full AI lifecycle — from data collection and annotation to model training, inference optimization, edge deployment, and industrial integration.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=irmakburkay&theme=default&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=irmakburkay&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+I enjoy turning AI models into practical solutions that solve real-world problems.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=irmakburkay&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+* 🔭 **Focus:** Industrial Computer Vision, Edge AI, and ML optimization
+* 🎯 **Expertise:** Object detection, anomaly detection, multi-object tracking, and industrial automation
+* ⚙️ **Deployment:** ONNX, TensorRT, NVIDIA Jetson, and Luxonis OAK
+* 🌱 **Currently exploring:** Transformers, Vision-Language Models, and LLMs
+* 💬 **Let's talk about:** Computer Vision, Python, PyTorch, and production AI systems
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/irmakburkay)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white)](https://www.kaggle.com/sabriburkayirmak)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/irmakburkay)
+
+## 🛠️ Technical Skills
+
+### Computer Vision & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square)
+
+### Edge AI & Model Optimization
+
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square\&logo=onnx\&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square\&logo=nvidia\&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square\&logo=nvidia\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+
+### Backend, Data & Industrial Integration
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![OPC UA](https://img.shields.io/badge/OPC%20UA-0066A1?style=flat-square)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square)
+![Modbus TCP](https://img.shields.io/badge/Modbus%20TCP-555555?style=flat-square)
+
+## 🚀 Areas of Experience
+
+* **Industrial Computer Vision:** Object detection, classification, anomaly detection, counting, and multi-object tracking.
+* **Edge AI Deployment:** Optimizing and deploying models on NVIDIA Jetson and Luxonis OAK devices using ONNX and TensorRT.
+* **Production AI Pipelines:** Data collection, annotation, model training, evaluation, optimization, and deployment.
+* **Industrial Automation:** Integrating AI inference with cameras, PLCs, and industrial communication protocols.
+* **Machine Learning & Optimization:** Developing Python-based ML pipelines and constraint-aware optimization solutions.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irmakburkay\&show_icons=true\&hide_border=true\&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irmakburkay\&layout=compact\&hide_border=true\&theme=default)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=irmakburkay&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*Building practical AI systems, from experimentation to real-world deployment.*
