@@ -2,7 +2,7 @@
 
 ### AI Engineer | Computer Vision & Edge AI
 
-AI Engineer focused on building and deploying **production-ready Computer Vision and Machine Learning systems**. With 2.5+ years of professional experience, I have worked on end-to-end AI projects across 20+ manufacturing facilities in Türkiye and Europe.
+AI Engineer focused on building and deploying **production-ready Computer Vision and Machine Learning systems**. With 3+ years of professional experience, I have worked on end-to-end AI projects across 20+ manufacturing facilities in Türkiye and Europe.
 
 My experience spans the full AI lifecycle — from data collection and annotation to model training, inference optimization, edge deployment, and industrial integration.
 
@@ -60,11 +60,13 @@ I enjoy turning AI models into practical solutions that solve real-world problem
 * **Industrial Automation:** Integrating AI inference with cameras, PLCs, and industrial communication protocols.
 * **Machine Learning & Optimization:** Developing Python-based ML pipelines and constraint-aware optimization solutions.
 
+
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irmakburkay\&show_icons=true\&hide_border=true\&theme=default)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=irmakburkay&show_icons=true&hide_border=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irmakburkay\&layout=compact\&hide_border=true\&theme=default)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=irmakburkay&layout=compact&hide_border=true&theme=default)
 
 ---
 
